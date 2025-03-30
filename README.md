@@ -1,5 +1,5 @@
 # WEEK-3
-Python Assignment wk 3
+--Python Assignment wk 3
 def calculate_discount(price, discount_percent):
     # Check if the discount is 20% or higher
     if discount_percent >= 20:
